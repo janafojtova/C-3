@@ -1,0 +1,56 @@
+# poznámky
+mark down - aby text byl strojově čitelný a vypadal vkusně
+
+teď máme rozšíření, takže pdf jde teď přečíst, ale kdyby to tam nebylo, tak to nepřečtu
+
+používá se to v gitových repozitářích, vidím jednoduše, co jsme změnili
+Mám historii zdrojáku i dokumentace
+
+.NET 6 je framwork - vývojové prostředí, ve kterém jsou vyvinuté věci pro iot, pro AI, gaming, mobile, web, desktop, cloud
+
+WPF - kalkulačka
+
+
+ASP .NET Core - framework,
+podporuje vícero jazyků,
+(podporuje F sharp a visual basic a C#)
+Spoustu nástrojů
+jsou zpřístupněny knihovny,které jsou aktivně vyvíjeny a vylepšovány
+Flexibilní deployment - aplikace ukládat na cloud, spouštět v clustru, aplikace, které pouštím na webu,m tak si mohu pustit na vlastním počítači
+
+Core - přidali to, protože se to dá rozjet na windowsu, na mac os, na linuxu,...
+open source, pokud v knihovnách atd, najdu chybu, můžu ji pokusit upravit - pokud je to správně -> můj kousek kodu by se dostali k ostatním
+podporuje kolaboraci v rámci internetu.
+
+Co se dá v ASP.NET Core vytvořit?
+- Web UI - frontend - co vidí uživatel jako první
+- Backend Services (agent, co běží na pozadí - má účel a něco provádí)
+
+poatří do UI
+Server Rendered - dotazuji se serveru a on odpovídá
+Client Rendered - stáhnu k soubě a běží na mém počítači
+
+Backend Services . SignalR - real time věci - používáme stream videa
+worker - věc, nemá uživatelské rozhraní - já mu řeknu spočítej mi nějaký příklad a on vrátí výsledek
+
+dokáže se rozhodit v počítači na různé mašiny, udělá si nějaké kousky, nějaké částečné výpočty a vrací to zpátky
+
+web Apis
+-minimal nové
+Controller based - ty mě zajímají
+
+
+Faketsy eshop
+
+cls - vymaže vše z terminálu
+
+sln - solution
+-soubor projektů
+-soution vícero projektů vícero kalkulaček
+
+dotnet new console - vytvořím konzolovou aplikaci
+
+sln add - přidá projekt
+dotnet watch - spustím konzolovou aplikaci
+
+csproj - projekt je v dot net 8
